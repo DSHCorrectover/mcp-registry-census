@@ -14,6 +14,10 @@
 **分层**：前段托管 35.0% ｜ 自部署 21.8% ｜ 后段 **44.6%**（最新批 b8 单批 **60.2%**——新增供给安全基线更低）
 **T+7 差分**：2026-12-01 复测（本仓为 T0 基线；后段修复>前段=生态自修正，持平=修复跟不上新增）
 
+## 引用
+
+**DOI: [10.5281/zenodo.24496532](https://doi.org/10.5281/zenodo.24496532)**（Zenodo, CC0）· Wang, Guigui (2026). *MCP Registry Security Census T0 (2026-11-24): 6,923 endpoints, full-coverage exposure survey.*
+
 ## 可复现（Reproduce）
 
 ```bash
